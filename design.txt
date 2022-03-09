@@ -7,6 +7,3 @@ Team
     - id (random, auto incremented)
     - name 
 
-
-mail_id:
-interview@barraiser.com
