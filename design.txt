@@ -1,0 +1,12 @@
+Developer 
+    - id (phone_number)
+    - name
+    - phone_number
+
+Team
+    - id (random, auto incremented)
+    - name 
+
+
+mail_id:
+interview@barraiser.com
